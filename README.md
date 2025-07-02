@@ -1,4 +1,4 @@
-# Skill Trade Chatbot
+# RAG AI Chatbot
 
 This project is a simple chatbot for the Skill Trade website. It allows users to send messages and receive responses from a bot via a webhook endpoint using n8n.
 
