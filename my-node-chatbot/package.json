@@ -1,0 +1,15 @@
+{
+  "name": "my-node-chatbot",
+  "version": "1.0.0",
+  "description": "A simple chatbot for Skill Trade that interacts with an n8n webhook.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "dotenv": "^16.0.3"
+  },
+  "author": "",
+  "license": "ISC"
+}
